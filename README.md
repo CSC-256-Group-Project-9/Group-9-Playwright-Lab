@@ -2,7 +2,7 @@
 A resource to guide students towards successfully completing the PlayWright lab.
 ## Getting Started:
 - A quick review of understanding [PlayWright with a simple to follow example](Understanding_PlayWright.docx)
-- Another great resource for understanding [PlayWright:](https://www.browserstack.com/guide/playwright-python-tutorial) and [another resource](https://www.youtube.com/watch?v=y8zY14HHiPI&list=PLP5_A7hnY1Tggph0F0cRqf5iyyZuIBXYC)
+- Another great resource for understanding [PlayWright:](https://www.browserstack.com/guide/playwright-python-tutorial) and [another resource](https://www.youtube.com/watch?v=y8zY14HHiPI&list=PLP5_A7hnY1Tggph0F0cRqf5iyyZuIBXYC) as well as [this resource](https://playwright.dev/python/docs/writing-tests#first-test)
 ## Project Overview
 -  The purpose of this project is to understand and use PlayWright.
 - This repo shows a real-world example of using PlayWright to test some features that were in the mini projects issued in the Selenium lab such as using a radio button.
